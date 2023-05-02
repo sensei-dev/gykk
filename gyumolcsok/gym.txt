@@ -1,0 +1,6 @@
+gyumolcsok.txt
+eltarolunk felhasznalo alltal 5 db gyum nevet egy listaban.
+
+txtbe kiirjuk hany db alma van benne,
+van e benne banán
+hany olyan van ami a "betuvel " kezdodik 

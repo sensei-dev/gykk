@@ -1,0 +1,5 @@
+karcsi 123
+bela 1
+zoli 10
+bende 67777
+buzilaci 6

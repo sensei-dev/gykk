@@ -1,0 +1,3 @@
+tanulok.txt
+
+bekerunk 5 db tanulo nevet, 1sorba szokozzel elvalasztva, es egy eletkort hozzajuk

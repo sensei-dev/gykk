@@ -1,0 +1,3 @@
+A listában lévő almák száma: 1
+A listaban nincs bánan
+A listában a betüvel kezdodok gyumolcsok szama: 2
